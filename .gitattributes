@@ -4,6 +4,7 @@
 # Custom for Visual Studio
 *.cs     diff=csharp
 
+//BEG : A003Reichwerden23 09.12.15 JOK
 # Standard to msysgit
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
@@ -15,3 +16,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+// END : A003Rechwerden23 09.12.15 JOK
